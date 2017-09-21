@@ -1,4 +1,4 @@
-# ui-demo
+# notebook
 
 > A Vue.js project
 
